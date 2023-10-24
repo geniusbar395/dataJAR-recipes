@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the current release version of OpenJDK and imports it to Munki.</string>
     <key>Identifier</key>
-    <string>com.github.dataJAR-recipes.munki.OpenJDK</string>
+    <string>com.github.geniusbar395.munki.OpenJDK</string>
     <key>Input</key>
     <dict>
         <key>MUNKI_REPO_SUBDIR</key>
@@ -37,7 +37,7 @@
         </dict>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.dataJAR-recipes.pkg.OpenJDK</string>
+    <string>com.github.geniusbar395.pkg.OpenJDK</string>
     <key>Process</key>
     <array>
         <dict>
