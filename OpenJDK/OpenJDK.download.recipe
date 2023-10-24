@@ -13,7 +13,7 @@
         <key>NAME</key>
         <string>OpenJDK</string>
         <key>ARCHITECTURE</key>
-        <string>x64</string>
+        <string>aarch64</string>
     </dict>
     <key>MinimumVersion</key>
     <string>1.0.0</string>
